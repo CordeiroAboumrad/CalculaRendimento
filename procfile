@@ -1,1 +1,1 @@
-web: react --experimental-modules app.js
+web: node -r dotenv/config --experimental-modules index.js

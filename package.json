@@ -9,7 +9,8 @@
     "materialize-css": "1.0.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "serve": "^11.3.2"
   },
   "scripts": {
     "start": "react-scripts start",
